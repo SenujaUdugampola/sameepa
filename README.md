@@ -7,21 +7,21 @@
 ![Chart.js](https://img.shields.io/badge/Chart.js-Data%20Viz-FF6384?logo=chartdotjs&logoColor=white)
 
 ## 📌 Overview
-**Sameepa** is a location-based social networking web application designed to help users discover, connect, and interact with nearby individuals and communities[cite: 2]. Built with a custom PHP MVC architecture and MySQL, the platform bridges digital communication and neighborhood engagement through community groups, real-time messaging, and localized facility reservations[cite: 2].
+**Sameepa** is a location-based social networking web application designed to help users discover, connect, and interact with nearby individuals and communities[cite: 2]. Built with a custom PHP MVC architecture and MySQL, the platform bridges digital communication and neighborhood engagement through community groups, real-time messaging, and localized facility reservations.
 
 ## ✨ Key Features
-- **Community Group Modules:** Create, discover, and join localized community groups based on geographic proximity[cite: 2].
-- **Real-Time Group Chat:** Interactive messaging channels enabling members to communicate within their neighborhoods and groups[cite: 2].
-- **Facility Booking Management:** Complete booking workflow allowing users to reserve community facilities and amenities[cite: 2].
-- **Secure Payment Integration:** Integrated with the Stripe API to handle secure payments for facility reservations[cite: 2].
-- **Admin Dashboards & Data Visualization:** Centralized administrative control panel utilizing Chart.js to monitor user metrics, reservation trends, and platform activity[cite: 2].
+- **Community Group Modules:** Create, discover, and join localized community groups based on geographic proximity.
+- **Real-Time Group Chat:** Interactive messaging channels enabling members to communicate within their neighborhoods and groups.
+- **Facility Booking Management:** Complete booking workflow allowing users to reserve community facilities and amenities.
+- **Secure Payment Integration:** Integrated with the Stripe API to handle secure payments for facility reservations.
+- **Admin Dashboards & Data Visualization:** Centralized administrative control panel utilizing Chart.js to monitor user metrics, reservation trends, and platform activity.
 
 ## 🛠️ Tech Stack
-- **Backend:** PHP (Custom MVC Framework)[cite: 2]
-- **Database:** MySQL[cite: 2]
-- **Frontend:** HTML5, CSS3, JavaScript (ES6)[cite: 2]
-- **Payments:** Stripe API[cite: 2]
-- **Visualization:** Chart.js[cite: 2]
+- **Backend:** PHP (Custom MVC Framework)
+- **Database:** MySQL
+- **Frontend:** HTML5, CSS3, JavaScript (ES6)
+- **Payments:** Stripe API
+- **Visualization:** Chart.js
 
 ## 📂 Project Structure
 ```text
